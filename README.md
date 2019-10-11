@@ -1,7 +1,7 @@
 # Fundamentals of Parallelism on Intel Architecture Answers
       
 
-WEEK 1, WEEK 2(quiz), WEEK 3, WEEK 4, WEEK 5(quiz) complete assisment added.
+WEEK 1, WEEK 2, WEEK 3, WEEK 4, WEEK 5 complete assisment added.
 
 
 ## How to upload Graded External Tools assisment
